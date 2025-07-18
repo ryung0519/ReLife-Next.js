@@ -90,6 +90,7 @@ ReLife is a full-stack application that converts room images into interior simul
 
 ## 🏆 Achievements
 - 🏆 Bronze Award at 2024 KDCS Summer Conference (Korea Digital Contents Society) for Undergraduate Research Paper Presentation
+- [View Paper](https://github.com/ryung0519/ReLife-Next.js/blob/master/2024%20%EB%85%84%EB%8F%84%20%ED%95%9C%EA%B5%AD%EB%94%94%EC%A7%80%ED%84%B8%EC%BD%98%ED%85%90%EC%B8%A0%ED%95%99%ED%9A%8C%20%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%85%BC%EB%AC%B8.pdf)
 
 <br><br><br>
 -kr---------------------------------------------------------------------------------------------------------------------------
@@ -183,3 +184,4 @@ ReLife는 사용자의 방 이미지를 받아, AI 기반 이미지 변환과 36
 
 ## 🏆 수상 내역
 - 🥉 2024 한국디지털콘텐츠학회(KDCS) 하계 종합 학술대회 대학생 논문 경진대회 동상 수상
+- [눈문 보기](https://github.com/ryung0519/ReLife-Next.js/blob/master/2024%20%EB%85%84%EB%8F%84%20%ED%95%9C%EA%B5%AD%EB%94%94%EC%A7%80%ED%84%B8%EC%BD%98%ED%85%90%EC%B8%A0%ED%95%99%ED%9A%8C%20%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%85%BC%EB%AC%B8.pdf)
