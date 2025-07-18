@@ -1,7 +1,6 @@
 -eng---------------------------------------------------------------------------------------------------------------------------
 # 🛋️ ReLife - AI-Powered Interior Simulation Service (Full-stack application)
 <br><br><br>
-
 ## 📌 Overview
 ReLife is a full-stack application that converts room images into interior simulations using AI-powered image generation and 360° VR visualization.
 
@@ -74,7 +73,6 @@ ReLife is a full-stack application that converts room images into interior simul
 }
 ```
 <br><br>
-
 ## 🛠️ Tech Stack
 | Category | Tools |
 |----------|-------|
@@ -92,11 +90,11 @@ ReLife is a full-stack application that converts room images into interior simul
 ## 🏆 Achievements
 - 🏆 Bronze Award at 2024 KDCS Summer Conference (Korea Digital Contents Society) for Undergraduate Research Paper Presentation
 
+
 -kr---------------------------------------------------------------------------------------------------------------------------
 # 🛋️ ReLife - AI 기반 인테리어 시뮬레이션 서비스 (Full-stack Application)
 
 <br><br>
-
 ## 📌 개요
 ReLife는 사용자의 방 이미지를 받아, AI 기반 이미지 변환과 360° VR 뷰를 통해 인테리어를 간접 체험할 수 있는 풀스택 인테리어 시뮬레이션 웹 서비스입니다.
 
@@ -166,9 +164,6 @@ ReLife는 사용자의 방 이미지를 받아, AI 기반 이미지 변환과 36
     maskUrl : [{maskUrl}],
     generateUrl : {generateUrl}
 }
-<br><br>
-
-
 <br><br>
 
 ## 🛠️ 기술 스택
