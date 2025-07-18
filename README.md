@@ -82,10 +82,11 @@ ReLife is a full-stack application that converts room images into interior simul
 | Others | Git, GitHub, REST API, External AI API |
 
 ## 👩🏻‍💻 My Contributions
-- System design & full-stack development
-- Webhook result handling & Redis state management
-- User preference analysis logic (solo)
-- Documentation & co-authoring of academic paper
+- Participated in full-stack development including parts of frontend and backend features
+- Implemented part of the AI API integration
+- Independently developed the user preference analysis logic
+- Authored technical documentation and served as the first author of the academic paper
+
 
 ## 🏆 Achievements
 - 🏆 Bronze Award at 2024 KDCS Summer Conference (Korea Digital Contents Society) for Undergraduate Research Paper Presentation
@@ -175,10 +176,10 @@ ReLife는 사용자의 방 이미지를 받아, AI 기반 이미지 변환과 36
 | 기타       | Git, GitHub, REST API, 외부 AI API |
 
 ## 👩🏻‍💻 나의 기여
-- 시스템 설계 및 풀스택 구현  
-- Webhook 결과 처리 및 Redis 상태 관리  
-- 사용자 취향 분석 로직 (단독 구현)  
-- 서비스 문서화 및 학술 논문 공동 저자  
+- 프론트엔드와 백엔드 일부 기능 구현 등 풀스택 개발 참여
+- AI API 연동 기능 일부 구현
+- 사용자 취향 분석 기능 단독 개발
+- 기술 문서 작성 및 학술 논문 제 1저자 
 
 ## 🏆 수상 내역
 - 🥉 2024 한국디지털콘텐츠학회(KDCS) 하계 종합 학술대회 대학생 논문 경진대회 동상 수상
